@@ -21,7 +21,9 @@
 <a href="https://topotta.github.io">
   <img src="https://img.shields.io/badge/Project%20Page-8A2BE2" alt="Project Page">
 </a>
-<img src="https://img.shields.io/badge/IEEE%20TPAMI-2026-00629B.svg" alt="IEEE TPAMI 2026">
+<a href="https://doi.org/10.1109/TPAMI.2026.3710196">
+  <img src="https://img.shields.io/badge/IEEE%20TPAMI-2026-00629B.svg" alt="IEEE TPAMI 2026">
+</a>
 <a href="https://arxiv.org/abs/2606.28268">
   <img src="https://img.shields.io/badge/arXiv-2606.28268-b31b1b.svg" alt="arXiv">
 </a>
@@ -35,7 +37,7 @@
   <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT">
 </a>
 
-<p>Code for the IEEE TPAMI 2026 paper <a href="https://arxiv.org/abs/2606.28268"><i>Learning Topology-Aware Representations via Test-Time Adaptation for Anomaly Segmentation</i></a>.<br>
+<p>Code for the IEEE TPAMI 2026 paper <a href="https://doi.org/10.1109/TPAMI.2026.3710196"><i>Learning Topology-Aware Representations via Test-Time Adaptation for Anomaly Segmentation</i></a>.<br>
 The official repository is maintained at <a href="https://github.com/EngrUsmaanAli/TopoTTA">github.com/EngrUsmaanAli/TopoTTA</a>; this copy is provided for convenience.</p>
 </div>
 
@@ -135,6 +137,7 @@ If you find this code useful, please cite:
   author  = {Zia, Ali and Ali, Usman and Rehman, Abdul and Ramzan, Umer and Han, Kang and Faheem, Muhammad and Qureshi, Shahnawaz and Xiang, Wei},
   journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence},
   year    = {2026},
+  doi     = {10.1109/TPAMI.2026.3710196},
   note    = {arXiv:2606.28268}
 }
 ```
