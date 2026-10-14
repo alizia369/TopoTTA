@@ -27,11 +27,15 @@
 <a href="https://arxiv.org/pdf/2606.28268">
   <img src="https://img.shields.io/badge/Paper-PDF-blue.svg" alt="PDF">
 </a>
+<a href="https://github.com/EngrUsmaanAli/TopoTTA">
+  <img src="https://img.shields.io/badge/Official%20repo-EngrUsmaanAli%2FTopoTTA-black.svg?logo=github" alt="Official repo">
+</a>
 <a href="LICENSE">
   <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT">
 </a>
 
-<p>Official implementation of the paper <a href="https://arxiv.org/abs/2606.28268"><i>Learning Topology-Aware Representations via Test-Time Adaptation for Anomaly Segmentation</i></a>.</p>
+<p>Code for the paper <a href="https://arxiv.org/abs/2606.28268"><i>Learning Topology-Aware Representations via Test-Time Adaptation for Anomaly Segmentation</i></a>.<br>
+The official repository is maintained at <a href="https://github.com/EngrUsmaanAli/TopoTTA">github.com/EngrUsmaanAli/TopoTTA</a>; this copy is provided for convenience.</p>
 </div>
 
 ## 🧠 Overview
